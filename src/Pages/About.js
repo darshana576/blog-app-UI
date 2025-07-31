@@ -31,14 +31,13 @@ const About = () => {
             <CardText>
               <p style={{ fontSize: "18px" }}>
                 <i>
-                  Blog website for thoughts & ideas around the things that
-                  actually matter.
+                  "A place to share stories, experiences, and perspectives that inspire change."
                 </i>
               </p>
             </CardText>
             <CardFooter>
               <p>
-                <b>Designed and developed by Yash Kerkar</b>
+                <b>Designed and developed by Darshana Agarwal</b>
               </p>
             </CardFooter>
           </Card>
